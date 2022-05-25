@@ -278,8 +278,8 @@ int main()
         printf("4 - Insert at the middle.\n");
         printf("5 - Insert at the end.\n");
         printf("6 - Delete at the front.\n");
-        printf("7 - Delete at the middle.\n");
-        printf("8 - Delete at the end.\n");
+        printf("7 - Delete in the middle.\n");
+        printf("8 - Delete at end.\n");
         printf("9 - Delete the list.\n");
         printf("10- Sort the list.\n");
         printf("11- Exit.\n");
